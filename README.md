@@ -1,7 +1,7 @@
 # ProjetQuiz
 
 ## Description
-ProjetQuiz est une application de quiz interactive permettant aux utilisateurs de tester leurs connaissances sur divers sujets. Ce projet a été développé dans le cadre d'un exercice d'apprentissage en [HTML,CSS,JS].
+ProjetQuiz est une application web de quiz interactive permettant aux utilisateurs de tester leurs connaissances sur divers sujets sur les mangas. Ce projet a été développé dans le cadre d'un exercice d'apprentissage en [HTML,CSS,JS].
 
 ## Fonctionnalités
 - Interface utilisateur intuitive et réactive.
